@@ -1,0 +1,19 @@
+{
+    "name": "欸冷的部落格",
+    "short_name": "欸冷",
+    "icons": [
+        {
+            "src": "https://img.overclockers.co.uk/media/image/CP65JIN_193693.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://img.overclockers.co.uk/media/image/CP65JIN_193693.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

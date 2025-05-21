@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>欸冷 | 個人成長部落格</title>
+      <link>/blog</link>
+      <description>主要分享 JavaScript 以及其他資訊技術知識，紀錄自己學習歷程。</description>
+      <language>zh-tw</language>
+      <managingEditor>h105483342@gmail.com (欸冷)</managingEditor>
+      <webMaster>h105483342@gmail.com (欸冷)</webMaster>
+      <lastBuildDate>Thu, 24 Apr 2025 16:00:00 GMT</lastBuildDate>
+      <atom:link href="/tags/nextjs/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>/blog/CVE-2025-29927 漏洞複現</guid>
+      <title>CVE-2025-29927 漏洞複現</title>
+      <link>/blog/CVE-2025-29927 漏洞複現</link>
+      <description>&lt;p&gt;&lt;small&gt;Next.js 授權繞過漏洞 CVE-2025-29927 複現&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>Next.js</category>
+    </item>
+  
+    <item>
+      <guid>/blog/how-to-use-markdown-write-ppt</guid>
+      <title>Markdown 写 PPT 是如何实现的？</title>
+      <link>/blog/how-to-use-markdown-write-ppt</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9c412b67dc554e2da8acd4dd549a40e3~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;一个非常好用的工具 slidev, 可以使用 markdown 来制作演示文稿，其他类似的工具还有 Nodeppt、 marp 等，那么这类工具是如何实现的？&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Aug 2022 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>Next.js</category>
+    </item>
+  
+    <item>
+      <guid>/blog/develop-a-nextjs-interview-web</guid>
+      <title>【实战】Next.js + 云函数开发一个面试刷题网站</title>
+      <link>/blog/develop-a-nextjs-interview-web</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/84b4dbe2bb3c4c9a80df45abf9975a04~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;前段时间开发了一个面试刷题小程序——面试狗，主要使用了 uniapp + unicloud 云开发实现，今天我们来开发一个与之对应的 PC 版面试刷题网站。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 07 Aug 2022 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>Next.js</category>
+    </item>
+  
+    </channel>
+  </rss>

@@ -1,0 +1,74 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>欸冷 | 個人成長部落格</title>
+      <link>/blog</link>
+      <description>主要分享 JavaScript 以及其他資訊技術知識，紀錄自己學習歷程。</description>
+      <language>zh-tw</language>
+      <managingEditor>h105483342@gmail.com (欸冷)</managingEditor>
+      <webMaster>h105483342@gmail.com (欸冷)</webMaster>
+      <lastBuildDate>Thu, 24 Apr 2025 16:00:00 GMT</lastBuildDate>
+      <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>/blog/CVE-2025-29927 漏洞複現</guid>
+      <title>CVE-2025-29927 漏洞複現</title>
+      <link>/blog/CVE-2025-29927 漏洞複現</link>
+      <description>&lt;img src=&quot;https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/cve-2025-29927/twitter-card.png&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Next.js 授權繞過漏洞 CVE-2025-29927 複現&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>CVE漏洞複現</category><category>Next.js</category>
+    </item>
+  
+    <item>
+      <guid>/blog/輔大課表生成器 Chrome 擴充功能</guid>
+      <title>輔大課表生成器 Chrome 擴充功能</title>
+      <link>/blog/輔大課表生成器 Chrome 擴充功能</link>
+      <description>&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvbste35XkSBjJnM0cAZ3Fg7J7sM74eVGYDA&amp;s&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;這是一個專為輔仁大學學生設計的 Chrome 擴充功能，可以一鍵生成當學期課表。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 11 Feb 2025 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>輔仁大學</category><category>Javascript</category><category>專案</category>
+    </item>
+  
+    <item>
+      <guid>/blog/React JS 與 Google 的美好邂逅(2)</guid>
+      <title>React JS 與 Google 的美好邂逅(2)</title>
+      <link>/blog/React JS 與 Google 的美好邂逅(2)</link>
+      <description>&lt;img src=&quot;https://i.ytimg.com/vi/Xuy2fuE2qAI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLDYh4v95b_yNlt7tj-1izUKsR6FoA&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本篇將手把手的細心帶領讀者用Firebase使網頁可以使用Google登入或者可自己輸入帳密來進行登入操作&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Feb 2024 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>鐵人賽</category><category>React</category>
+    </item>
+  
+    <item>
+      <guid>/blog/React JS 與 Google 的美好邂逅(1)</guid>
+      <title>React JS 與 Google 的美好邂逅(1)</title>
+      <link>/blog/React JS 與 Google 的美好邂逅(1)</link>
+      <description>&lt;img src=&quot;https://i.ytimg.com/vi/Xuy2fuE2qAI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLDYh4v95b_yNlt7tj-1izUKsR6FoA&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本篇將手把手的細心帶領讀者用Firebase使網頁可以使用Google登入或者可自己輸入帳密來進行登入操作&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 25 Feb 2024 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>鐵人賽</category><category>React</category>
+    </item>
+  
+    <item>
+      <guid>/blog/Kali Linux 進行局域網 ARP Spoofing</guid>
+      <title>Kali Linux 進行局域網 ARP Spoofing</title>
+      <link>/blog/Kali Linux 進行局域網 ARP Spoofing</link>
+      <description>&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Ks-mHt4ZuYAi53cxnwhStGy0wZQpz_XNuA&amp;s&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本篇僅為**資訊安全相關課程或學術研究用途**，示範操在合法授權的環境中，對局域網進行斷網攻擊，嚴禁應用於未經授權的網路環境，以免觸犯法律。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jan 2024 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>kali</category><category>網路</category>
+    </item>
+  
+    <item>
+      <guid>/blog/Kali Linux 永久更改網卡 IP 與子網設定</guid>
+      <title> Kali Linux 永久更改網卡 IP 與子網設定</title>
+      <link>/blog/Kali Linux 永久更改網卡 IP 與子網設定</link>
+      <description>&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Ks-mHt4ZuYAi53cxnwhStGy0wZQpz_XNuA&amp;s&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本篇將說明如何在 Kali Linux 中透過編輯 `/etc/network/interfaces` 檔案，永久設定靜態 IP、子網遮罩、預設閘道與 DNS。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 14 Jan 2024 16:00:00 GMT</pubDate>
+      <author>h105483342@gmail.com (欸冷)</author>
+      <category>kali</category><category>網路</category>
+    </item>
+  
+    </channel>
+  </rss>
